@@ -13,8 +13,6 @@ namespace ProblemOne
         Wednesday,
         Thursday,
         Friday,
-        Saturday,
-        Sunday
     }
 
 }
