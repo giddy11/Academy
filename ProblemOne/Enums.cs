@@ -8,11 +8,14 @@ namespace ProblemOne
 {
     public enum WeekDay
     {
+        //days of the week
         Monday,
         Tuesday,
         Wednesday,
         Thursday,
         Friday,
+        Saturday,
+        Sunday
     }
 
 }
