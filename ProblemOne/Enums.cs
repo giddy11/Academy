@@ -15,7 +15,9 @@ namespace ProblemOne
         Thursday,
         Friday,
         Saturday,
-        Sunday
+        Sunday,
+        monday,
+        tuesday
     }
 
 }
